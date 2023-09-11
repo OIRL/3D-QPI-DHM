@@ -1,3 +1,2 @@
-# PyDHM
+# 3D QPI-DHM
 
-hola a todos 
