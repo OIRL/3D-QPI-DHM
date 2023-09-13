@@ -1,0 +1,5 @@
+Installation Steps:
+Prerequisites:
+Before installing the program, make sure you have the following prerequisites installed:
+-	Matlab: Ensure that you have Matlab installed on your system.
+-	Optimization Toolbox: You may need to install the Optimization Toolbox package if it is not already installed. 
