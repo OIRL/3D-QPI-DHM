@@ -7,3 +7,18 @@
 
 More information about 3D QPI-DHM can be found in:
 https://sites.google.com/d/16Jc_c8G8JPA0DvOa9xDzOgFAhTAE3Z88/p/1__rXjEyy3DkSnCwuKFBZAyPNa_y72WKk/edit
+
+## Credits
+3D QPI-DHM was developed in Python 3.7 and Matlab R2023a. Natick, Massachusetts: The MathWorks Inc. 
+
+## Citation
+If using 3D QPI-DHM for publication, please kindly cite the following: 
+
+R. Castaneda, C. Trujillo, Ana Doblas, "3D Quantitative Phase Imaging in Off-axis Digital Holographic Microscopy: Synergistic Reconstruction Framework", Optics Letters, under review (2023)
+
+## Support
+If you use 3D QPI-DHM and find a bug, please contact us via email and we will address the problem. Our emails are:
+
+opticalimagingresearchlab@gmail.com
+
+catrujilla@eafit.edu.co, adoblas@memphis.edu
