@@ -21,4 +21,4 @@ If you use 3D QPI-DHM and find a bug, please contact us via email and we will ad
 
 opticalimagingresearchlab@gmail.com
 
-catrujilla@eafit.edu.co, adoblas@memphis.edu
+catrujilla@eafit.edu.co, adoblas@umassd.edu
