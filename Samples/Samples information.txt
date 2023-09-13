@@ -1,0 +1,12 @@
+# holo-RBC-20p22-3-2.png
+
+Reconstruction parameters 
+	lambda = 0.000532;
+	dxy = 0.0024;
+
+--------------------------------------------------------------------------------------
+# holo-RBC-20p22-3-2.png
+
+Reconstruction parameters 
+	lambda = 0.000633;
+	dxy = 0.00375;
