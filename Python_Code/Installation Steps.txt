@@ -1,0 +1,22 @@
+Installation Steps:
+Prerequisites:
+Before installing the program, make sure you have the following prerequisites installed:
+-	Python: Ensure that you have Python installed on your system.
+-	NumPy: You may need to install the NumPy package if it is not already installed. You can do this using pip:
+o	pip install numpy
+-	SciPy: Install the SciPy package using pip:
+o	pip install scipy
+-	Scikit-image (skimage) and OpenCV: These packages are required for both CPU and GPU versions. You can install them using pip:
+o	pip install scikit-image opencv-python
+Installing the GPU Version:
+If you want to use the GPU version, follow these additional steps:
+-	Install CUDA Toolkit: Make sure you have CUDA Toolkit (version 10.1 or 10.2) installed on your system. You can download it from the official NVIDIA website: CUDA Toolkit Download.
+-	Install pyCUDA: Install pyCUDA, a Python interface to CUDA, using one of the standalone files (pycuda-2021.1+cuda102-cp37-cp37m-win_amd64, for instance). You can download the appropriate wheel file for your Python version and CUDA version from Christoph Gohlke's website: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycuda
+-	Install pyCUDA using pip with the downloaded wheel file:
+o	pip install pycuda-<version>-<platform>.whl
+-	Install Visual Studio: Install Visual Studio with .NET Framework 3.5 and MSVCv140 - VS2015. You can download Visual Studio from the official Microsoft website: Visual Studio Downloads.
+-	Add 'cl.exe' to Path: Add the path to the 'cl.exe' (C compiler in Windows provided by Visual Studio) to your system's PATH environment variable. This step is necessary for compiling CUDA code. You can typically find 'cl.exe' in the Visual Studio installation directory.
+
+Troubleshooting skcuda (Optional):
+If you encounter problems with skcuda, follow the instructions to build and install it from the official documentation: scikit-cuda Installation Instructions.
+Be sure to download the installation files from GitHub or refer to the compressed file provided in the program folder.
