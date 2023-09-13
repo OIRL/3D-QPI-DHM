@@ -6,7 +6,7 @@
 ## Documentation
 
 More information about 3D QPI-DHM can be found in:
-https://sites.google.com/d/16Jc_c8G8JPA0DvOa9xDzOgFAhTAE3Z88/p/1__rXjEyy3DkSnCwuKFBZAyPNa_y72WKk/edit
+https://sites.google.com/view/3dqpi-dhm/home
 
 ## Credits
 3D QPI-DHM was developed in Python 3.7 and Matlab R2023a. Natick, Massachusetts: The MathWorks Inc. 
